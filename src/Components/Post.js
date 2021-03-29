@@ -15,7 +15,7 @@ const Post = () => {
 	return (
 		<Container>
 			<Header> Post </Header>
-			<p> asd </p>
+			<p> 뭐하지 이제... </p>
 		</Container>
 	);
 }

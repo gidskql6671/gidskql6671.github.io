@@ -15,7 +15,7 @@ const Profile = () => {
 	return (
 		<Container>
 			<Header> Profile </Header>
-			<p> asd </p>
+			<p> 뭐하지 이제... </p>
 		</Container>
 	);
 }
