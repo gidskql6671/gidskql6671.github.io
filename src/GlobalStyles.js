@@ -20,8 +20,17 @@ const GlobalStyles = createGlobalStyle`
 	}
 
 	code {
-	  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-		monospace;
+		font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',monospace;
+	}
+
+	a{
+		color: white;
+		text-decoration: none;
+
+		&:hover {
+			color: white;
+			text-decoration: none;
+		}
 	}
 
 `;
