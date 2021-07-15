@@ -1,0 +1,20 @@
+.frame{
+    background-color: #f0f3f3;
+    color: black;  /* 배경 색 #282c37 */
+    height: 90vh;
+    min-width: 90vw;
+    
+    margin: 5vh 5vw;
+    
+    border-radius: 25%;
+    
+    display: table;
+    
+    border: 10px solid black;
+}
+
+.frame > div{
+    display: table-cell;
+    
+    vertical-align: middle;
+}
