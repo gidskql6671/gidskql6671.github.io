@@ -20,7 +20,7 @@ const App = ( ) => {
 		
 		console.log(window.innerWidth, x, newX);
 		
-		if (Math.abs(newX - x) > window.innerWidth / 4){
+		if (Math.abs(newX - x) > window.innerWidth / 3){
 			const screen = document.getElementById("screen");
 			if (newX - x > 0){
 				screen.scrollTo({
