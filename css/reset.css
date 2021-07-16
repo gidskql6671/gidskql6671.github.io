@@ -47,10 +47,10 @@ table {
 	border-spacing: 0;
 }
 
-html, body, div {
+html, body {
     height: 100%;
 }
 html, body{
     overflow: hidden;
-	background-color: #282c37;
+	background-color: #f0f3f3;
 }
